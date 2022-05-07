@@ -1,1 +1,3 @@
-console.log("Your index.js file is loaded correctly!");
+function myFunction() {
+    alert("Thank You for checking out my work");
+  }
